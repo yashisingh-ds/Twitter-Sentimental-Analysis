@@ -1,7 +1,6 @@
 # Twitter-Sentimental-Analysis
-# Twitter Sentiment Analysis 📊🐦
 
-This project focuses on analyzing the sentiment of tweets based on specific keywords or hashtags. The analysis is performed using **Python** for data preprocessing and **Machine Learning** techniques for sentiment classification. It provides insights into the public perception of topics, brands, and events based on the sentiment of Twitter users' posts.
+This project focuses on analyzing the sentiment of tweets based on specific keywords or hashtags. The analysis is performed using Python for data preprocessing and Machine Learning techniques for sentiment classification. It provides insights into the public perception of topics, brands, and events based on the sentiment of Twitter users' posts.
 
 ## 📜 Project Description
 The goal of this project is to analyze the sentiment of tweets and categorize them as **positive**, **negative**, or **neutral**. Using the **Tweepy** API, we collect real-time Twitter data, preprocess it for meaningful analysis, and apply a **Naive Bayes** classifier to categorize the sentiment. This analysis helps identify trends in public sentiment, sentiment distribution, and influential discussions on Twitter.
